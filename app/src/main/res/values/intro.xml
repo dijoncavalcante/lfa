@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+        <string name="Topico">Teoria das Linguagens Formais</string>
+
+    <string name="descricao">Foi desenvolvida na década de 1950 que tinha como objetivo inicial
+desenvolver teorias relacionadas com as linguagens naturais
+entretanto, logo foi verificado que era importante o
+estudo de  linguagens artificiais em especial, para as
+linguagens originárias da Computação e Informática.
+Desde então, desenvolveu-se significativamente
+</string>
+
+</resources>
