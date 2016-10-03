@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/diego/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.1.1/support-annotations-24.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="3af19f153122737b372622fa6c81dd11a1c6b999">
+        <dex dex="/home/diego/Downloads/00.00.04/app/build/intermediates/pre-dexed/debug/support-annotations-24.1.1_e719376c45172c6e8000552227ba276202ebecd6.jar" />
+    </item>
+    <item
+        jar="/home/diego/Downloads/00.00.04/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="6d7d803871e3203465f71a163e7af104f807b446">
+        <dex dex="/home/diego/Downloads/00.00.04/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.1.1_17bbecc18669b3233645e5d884ec85a2899fcdb6.jar" />
+    </item>
+    <item
+        jar="/home/diego/Downloads/00.00.04/app/build/intermediates/exploded-aar/com.github.chrisbanes/PhotoView/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d41e53c215976ce172b9f61ef1e8fc2d67cf79">
+        <dex dex="/home/diego/Downloads/00.00.04/app/build/intermediates/pre-dexed/debug/com.github.chrisbanes-PhotoView-1.3.0_71f927113aae0d329df65ffbd754208e4e448969.jar" />
+    </item>
+    <item
+        jar="/home/diego/Downloads/00.00.04/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.1.1/jars/libs/internal_impl-24.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f78c2f395cb096f9dc1dc07e729922b8fcd3c4f5">
+        <dex dex="/home/diego/Downloads/00.00.04/app/build/intermediates/pre-dexed/debug/internal_impl-24.1.1_d2ff8d505e9905968188ebf48f3e47c9b187fc06.jar" />
+    </item>
+    <item
+        jar="/home/diego/Downloads/00.00.04/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/jars/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/home/diego/Downloads/00.00.04/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-21.0.3_e6a5cf77404ceb9d6a6082aeb3f7e6c1291b1d09.jar" />
+    </item>
+
+</items>

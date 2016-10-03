@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="160dp"
+    android:background="@drawable/side_nav_bar"
+    android:theme="@style/ThemeOverlay.AppCompat.Dark"
+    android:gravity="bottom"
+    android:paddingBottom="16dp"
+    android:paddingLeft="16dp"
+    android:paddingRight="16dp"
+    android:paddingTop="16dp"
+    android:weightSum="1">
+
+    <ImageView
+        android:id = "@+id/img_head"
+        android:layout_width = "wrap_content"
+        android:layout_height = "wrap_content"
+        android:paddingTop="16dp"
+        android:src="@mipmap/ic_lfa1"
+        />
+
+
+    <TextView
+        android:text="LFA-Educ@"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAppearance="@style/TextAppearance.AppCompat.Body1"
+        android:paddingTop="@dimen/abc_action_bar_default_padding_material"
+        android:layout_weight="0.40" />
+
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="lfaeduca@live.com" />
+
+
+</LinearLayout>

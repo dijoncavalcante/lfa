@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">LFA Educa</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="not_available_text">N/A</string>
+    <string name="drawer_open">Menu aberto</string>
+    <string name="drawer_close">Menu fechado</string>
+</resources>
