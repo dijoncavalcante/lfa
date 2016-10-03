@@ -1,15 +1,12 @@
-# NavigationDrawerExpList
-navegador lateral con listview expandible
+# App para aprendizado de Linguagens Formais e Automatos(LFA)
+App de LFA
 
-Buen día amigos. 
-Toda la información la pueden encontrar en 
-http://cursoandroidstudio.blogspot.com.ar/
+Olá, 
 
-dale me gusta
-https://www.facebook.com/CursoAndroidStudio?fref=ts
+Esse é o app que é parte integrante do projeto da Uninorte Laureate Universities de criar
+vários aplicativos para o curso de Ciência da Computação e este é voltado ao ensino de Linguagens
+Formais e Autômatos. 
 
-mi canal
-https://www.youtube.com/watch?v=hJ6QE7BODU0&list=PL5fwvmezw2ccKVR_PD0ThZXYU0dThR0qB&index=1
+Sinta-se à vontade para contribuir.
 
-http://cursoandroidstudio.blogspot.com.ar/
-https://www.facebook.com/CursoAndroidStudio
+Meu E-mail: diegotorres@unn.edu.br
